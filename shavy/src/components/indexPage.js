@@ -29,7 +29,6 @@ const IndexPageComponent = () => {
                 <Typography className="typoClass">Shavy</Typography>
                 <Typography className="typoClass">Give that decore</Typography>
               </div>
-              {/* </Grid> */}
             </Grid>
           </div>
         </Paper>
