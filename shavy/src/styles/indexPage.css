@@ -1,29 +1,50 @@
 .imgClass {
-  height: 50%;
+  height: 70%;
+  width: 100%;
+  margin-left: -45%;
+}
+.img1Class {
+  /* margin-top: 20%; */
+  margin-left: 35%;
+  height: 70%;
   width: 40%;
 }
-.decoreClass {
-  height: 1%;
-  width: 25%;
-  margin-left: 10%;
-  margin-top: 5%;
+.divBgColor {
+  background-color: #eeffcc;
 }
 .lummieClass {
-  height: 100%;
-  margin-top: -10%;
-  margin-left: 20%;
-  width: 120%;
-}
-.paperClass {
-  background-color: #e6ffb3 !important;
-}
-.typoClass {
-  text-align: center;
-}
-.imageGridClass {
+  height: 50%;
+  margin-top: 5%;
   margin-left: 10%;
+  width: 60%;
 }
-.divClass {
-  background-color: lightBlue;
-  margin-bottom: 20%;
+.designClass {
+  height: 70%;
+  width: 50%;
+}
+.stagingClass {
+  height: 70%;
+  width: 120%;
+  margin-right: 10%;
+}
+.stagingTypoclass {
+  margin-left: 8% !important;
+}
+.decoreTypoClass {
+  margin-left: -30% !important;
+}
+.designTypoClass {
+  margin-left: 8% !important;
+}
+.welcomeTypoClass {
+  margin-top: 10% !important;
+  text-align: center;
+  text-decoration-line: underline;
+}
+.instaDivClass {
+  margin-top: 07%;
+  background-color: #e6faff;
+}
+.textAlignCenter {
+  text-align: center;
 }
